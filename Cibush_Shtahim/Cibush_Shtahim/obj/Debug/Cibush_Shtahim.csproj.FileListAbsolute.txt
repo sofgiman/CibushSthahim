@@ -1,0 +1,44 @@
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\bin\Debug\Cibush_Shtahim.exe.config
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\bin\Debug\Cibush_Shtahim.exe
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\bin\Debug\Cibush_Shtahim.pdb
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\MainWindow.g.cs
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\App.g.cs
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim_MarkupCompile.cache
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim_MarkupCompile.lref
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\MainWindow.baml
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.g.resources
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.Properties.Resources.resources
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.csproj.GenerateResource.cache
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.csproj.CoreCompileInputs.cache
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.exe
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.pdb
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Views\game.g.cs
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Views\game.baml
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Views\EntryWindow.g.cs
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Views\EntryWindow.baml
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.csprojAssemblyReference.cache
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Views\DisqualificationScreen.g.cs
+C:\Users\aviya\source\repos\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Views\DisqualificationScreen.baml
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\bin\Debug\Cibush_Shtahim.exe.config
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\bin\Debug\Cibush_Shtahim.exe
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\bin\Debug\Cibush_Shtahim.pdb
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.csprojAssemblyReference.cache
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\MainWindow.g.cs
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Views\DisqualificationScreen.g.cs
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Views\Game.g.cs
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Views\EntryWindow.g.cs
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\App.g.cs
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim_MarkupCompile.cache
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim_MarkupCompile.lref
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\MainWindow.baml
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Views\DisqualificationScreen.baml
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Views\Game.baml
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Views\EntryWindow.baml
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.g.resources
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.Properties.Resources.resources
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.csproj.GenerateResource.cache
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.csproj.CoreCompileInputs.cache
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.exe
+C:\Users\aviya\OneDrive\שולחן העבודה\Programmig Projects\Cibush_Shtahim\Cibush_Shtahim\Cibush_Shtahim\obj\Debug\Cibush_Shtahim.pdb

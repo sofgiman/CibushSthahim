@@ -1,0 +1,55 @@
+﻿<UserControl x:Name="EntryWindowControl" x:Class="Cibush_Shtahim.Views.EntryWindow" 
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Cibush_Shtahim.Views"
+ 
+             mc:Ignorable="d" 
+             d:DesignHeight="550" d:DesignWidth="800">
+
+    <Grid>
+
+        <Border Padding="10">
+
+            <StackPanel  x:Name="Mystackpanel1" Background="Cyan"  >
+
+            <Grid>
+                <TextBlock Padding="0,30" FontSize="50" FontWeight="SemiBold" Foreground="DarkGreen"
+             Text="Cibush Shtahim" HorizontalAlignment="Center"  />
+            </Grid>
+
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="PlayButton" Click="PlayButton_Click" Grid.Column="0" Margin="100,70,100,90" Padding="0,20" 
+            FontSize="30"       Content="play" />
+
+                <StackPanel Grid.Column="1" >
+                    <Label x:Name="RuleLsbel" FontSize="50" FontWeight="Bold" Grid.Column="1" Content="Rules"
+                       HorizontalAlignment="Center"/>
+                        <TextBlock Name="RuleText" Margin="0,0" Padding="20,0" HorizontalAlignment="Center" 
+                           FontSize="20" Grid.Column="1"> 
+                           When the game kicks, a ball will start<LineBreak/> 
+                           moving around the backround, try to <LineBreak/>
+                          reduce its borders with presssing on the <LineBreak/>
+                           background, you can also type Space for<LineBreak/>
+                           a diffrent drawing Line technique. <LineBreak/>
+                            when the borders will be small enough<LineBreak/>
+                            a new ball will pop
+                        </TextBlock>
+                    </StackPanel>
+
+            </Grid>
+               
+
+            </StackPanel>
+
+    </Border>
+        
+    </Grid>
+
+</UserControl>
